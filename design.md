@@ -40,4 +40,4 @@
     - A @user ping for the requesting user
     - The amount requested (USD I guess)
     - Maybe some kind of cute picture or quip (meme, anime tiddies, emojipasta, etc.)
-4. If 60% (or some arbitrary pre-configured ratio) of the members of the voting role have 
+4. If 60% (or some arbitrary pre-configured ratio) of the members of the voting role have provided an approval reaction to the post, then the bot generates a unique URL for the user to provide their paypal info at (not sure how this will work exactly) ... WIP
